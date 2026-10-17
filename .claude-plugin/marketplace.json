@@ -1,0 +1,7 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "yusef" },
+  "plugins": [
+    { "name": "context-meter", "source": "./plugins/context-meter", "description": "Shows context window usage in the status line." }
+  ]
+}
