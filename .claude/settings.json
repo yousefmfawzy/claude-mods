@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-mods": {
+      "source": { "source": "github", "repo": "yousefmfawzy/claude-mods" }
+    }
+  },
+  "enabledPlugins": {
+    "context-meter@claude-mods": true
+  }
+}
